@@ -1,2 +1,2 @@
-# Pattern-Design
+# Design Patterns
 Паттерны проектирования с описанием и примерами
